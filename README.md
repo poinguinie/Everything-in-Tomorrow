@@ -14,4 +14,6 @@
 - requests
 - opencv-python
 
+``` bash
   pip install selenium beautifulsoup4 tqdm requests opencv-python
+```
